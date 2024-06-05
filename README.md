@@ -1,6 +1,8 @@
 # Asteroids
 The Atari game
 
+Check it out here: https://woolenstone6633.github.io/Astroids/
+
 ## Controls
 Arrow keys to move, space bar to shoot
 
